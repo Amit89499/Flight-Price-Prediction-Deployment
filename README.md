@@ -1,10 +1,11 @@
 # Flight-Price-Prediction-Deployment
 ## Table of Content
 • <a href="https://github.com/Amit89499/Flight-Price-Prediction-Deployment/new/master?readme=1#demo">Demo</a><br>
-• <a href="https://github.com/Amit89499/Flight-Price-Prediction-Deployment/new/master?readme=1#problem-statement">Problem Statement</a>
+• <a href="https://github.com/Amit89499/Flight-Price-Prediction-Deployment/new/master?readme=1#problem-statement">Problem Statement</a><br>
+• <a href="https://github.com/Amit89499/Flight-Price-Prediction-Deployment/new/master?readme=1#technologies-used">Technologies Used</a>
 
 ## Demo 
-<h3>Link :</h3> https://calm-bastion-43770.herokuapp.com/
+<h3>Link :</h3> https://calm-bastion-43770.herokuapp.com/ <br>
 <img src="Image1.png">
 <img src="Image2.png">
 
